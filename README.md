@@ -1,4 +1,4 @@
-# HOTEL-MANAGEMENT-C-
+# HOTEL-MANAGEMENT-C++-
 What are the objectives of hotel management system project? The project “Hotel Management System” is aimed to develop to maintain the day-to-day state of admission/vacation of recidents, List of workers , List of Bills etc. There are following main objectives of the hotel: Records of salary structure of the employees of hotel by billing approach.
 
 Project for C++ beginners, it covers macros, class, objects, array, functions, loops, structure. On execution of this code users get a menu with 7 points 1 to 7 and then program runs according to user selection. There is output at the end of this page, which is captured on g++ compiler. Users of CppBuzz are allowed to copy & modify the code according to their need. If you need any project, feel free to contact us with project details.
